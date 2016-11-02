@@ -1,0 +1,30 @@
+div, form, input, img {
+			margin: 10px;
+		}
+
+		button {
+			background: #00A098;
+			color: #fff;
+			border: none;
+			margin: 10px;
+			height: 30px;
+		}
+
+		button:focus, 
+		button:hover {
+			background: #00201E;
+		}
+
+		.superstar {
+			float: left;
+		}
+
+		.superstar p {
+			margin-left: 10px;
+			font-weight: bold;
+		}
+
+		label {
+			margin-left: 10px;
+			font-weight: bold;
+		}
